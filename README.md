@@ -1,3 +1,3 @@
 # apnaproject
 this is my first Project
-Author - sunil
+Author - sunil (student)
